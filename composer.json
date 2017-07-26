@@ -1,0 +1,14 @@
+{
+    "name": "rdpascua/b2sum-i686",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Pascua Jr",
+            "email": "rdpascua@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/b2sum-i686-linux"
+    ]
+}
